@@ -45,7 +45,7 @@ module.exports = {
       accounts: [process.env.privateKey]
     },
     polygon_mumbai:{
-      url:`https://polygon-mumbai.g.alchemy.com/v2/q0CodUz-CMg8vtiOhtrzzc8sriN_Sbsq`,
+      url:``,
       accounts: [process.env.privateKey]
     },
     polygon_mainnet:{
