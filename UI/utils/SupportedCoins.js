@@ -1,0 +1,5 @@
+export const ETH = 'USDT'
+export const COINA = 'BEP20'
+export const COINB = 'ERC20'
+export const COINC = 'TRC20'
+export const DEFAULT_VALUE = 'Select a token'
